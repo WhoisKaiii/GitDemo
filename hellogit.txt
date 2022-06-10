@@ -2,4 +2,5 @@ hellogit
 hellogit
 hellogit
 make some changes
-test for ssh
+test for ssh pull
+test for ssh push
